@@ -1,0 +1,1 @@
+Objetivo: Desenvolver uma estrutura de página HTML utilizando as tags semânticas corretas para organizar um conteúdo sobre o filme. A página deve conter cabeçalho, conteúdo principal e rodapé, conforme os requisitos descritos.
